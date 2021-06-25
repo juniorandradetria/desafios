@@ -1,14 +1,11 @@
-#Tecnologias / Padrões 
+# Tecnologias / Padrões 
 
 Devem ser utilizadas as seguintes tecnologias: 
-
 Qualquer Framework de estilo 
-
 Angular 2+ 
-
 Lazy Loading 
 
-#O desafio 
+# O desafio 
 
 Crie uma Single Page Application de uma loja de quadrinhos utilizando a API da Marvel para todos os consumos de dados. 
 
@@ -20,22 +17,17 @@ Fatores Negociais: 10% dos quadrinhos carregados devem ser marcados como raros (
 
 (OPCIONAL) Existem dois tipos de cupons: Cupons raros e cupons comuns. Cupons comuns dão desconto somente para quadrinhos comuns enquanto raros podem ser usados em qualquer tipo. 
 
-#Arquitetura da solução / O que fazer 
+# Arquitetura da solução / O que fazer 
 
 No arquivo README do projeto explique o funcionamento e a solução adotada na sua implementação do desafio. 
 
-#Avaliação 
+# Avaliação 
 
 Entre os critérios de avaliação estão:  
 
 Usabilidade  
-
 Criatividade  
-
 Código limpo e organização  
-
 Documentação de código 
-
 Documentação do projeto (readme)  
-
 Performance 
